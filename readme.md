@@ -18,6 +18,7 @@ This project implements a simple Discord chatbot integrated with Kafka for messa
     CHANNEL_ID=<your_discord_channel_id>
     HUGGINGFACE_MODEL=<your_huggingface_model>
 
+
 4. Run the project using Docker:
 
     docker compose up --build
